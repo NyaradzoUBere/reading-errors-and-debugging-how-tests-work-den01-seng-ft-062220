@@ -1,6 +1,7 @@
 # Add your variables here
 
-first_number = "Hello world!"
+first_number = 3.14
+
 
 
 
